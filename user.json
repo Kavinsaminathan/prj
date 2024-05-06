@@ -1,0 +1,22 @@
+{
+  "user": [
+    {
+      "id": "f069",
+      "name": "siva",
+      "email": "siva@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "0678",
+      "name": "senthil",
+      "email": "sen@gmail.com",
+      "password": "2468"
+    },
+    {
+      "id": "1234",
+      "name": "sivap",
+      "email": "siva2@gmail.com",
+      "password": "1234"
+    }
+  ]
+}

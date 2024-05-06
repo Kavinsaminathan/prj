@@ -1,0 +1,31 @@
+{
+  "admin": [
+    {
+      "id": "4907",
+      "study": "LKG",
+      "age": "55",
+      "languages": "malayalam",
+      "fees": "776543567",
+      "edumod": "ICSE",
+      "duration": "45678"
+    },
+    {
+      "id": "2535",
+      "study": "PRE-KG",
+      "age": "2",
+      "languages": "english",
+      "fees": "3456",
+      "edumod": "CBSC",
+      "duration": "1-year"
+    },
+    {
+      "id": "153f",
+      "study": "LKG",
+      "age": "4",
+      "languages": "hindi",
+      "fees": "345",
+      "edumod": "CBSC",
+      "duration": "1-year"
+    }
+  ]
+}
